@@ -8,8 +8,7 @@ This application is a progressive web application. Changes can be made and the d
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
+* [Links](#links)
 * [Questions](#questions)
 
 ## Installation
@@ -27,6 +26,8 @@ This project is licensed under the MIT license.
 
 ## Links
 App: https://mighty-shore-42019.herokuapp.com/
+
+Repo: https://github.com/Jeffiftyone/Offline_Budget_Tracker
 
 ## Questions
 If you have any queations regarding the repo, open an issue or contact me directly at [jeffrey.beh@hotmail.com](mailto:jeffrey.beh@hotmail.com).
